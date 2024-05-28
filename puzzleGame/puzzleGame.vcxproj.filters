@@ -18,5 +18,11 @@
     <ClCompile Include="winMainCheck.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="three_button.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Direct3d_triangle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
