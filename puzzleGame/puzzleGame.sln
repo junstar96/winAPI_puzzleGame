@@ -5,6 +5,13 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "puzzleGame", "puzzleGame.vcxproj", "{763FAB7F-BC55-40D4-A54C-831C2D70AE9D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{363D1227-5AF5-490D-86A3-3B7EDBCC1BDA}"
+	ProjectSection(SolutionItems) = preProject
+		PixelShader.hlsl = PixelShader.hlsl
+		shader.fx = shader.fx
+		VertexShader.hlsl = VertexShader.hlsl
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
