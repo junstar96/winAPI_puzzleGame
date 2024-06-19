@@ -13,19 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Testing_dummy">
+      <UniqueIdentifier>{973336f8-5dda-41bf-9fa8-9ed646599a0c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="winMainCheck.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="three_button.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Direct3d_triangle.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Testing_dummy</Filter>
     </ClCompile>
     <ClCompile Include="Direct3d_triangle_update.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Testing_dummy</Filter>
+    </ClCompile>
+    <ClCompile Include="three_button.cpp">
+      <Filter>소스 파일\Testing_dummy</Filter>
+    </ClCompile>
+    <ClCompile Include="winMainCheck.cpp">
+      <Filter>소스 파일\Testing_dummy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

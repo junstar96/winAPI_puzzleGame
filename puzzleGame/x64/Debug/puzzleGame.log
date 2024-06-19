@@ -1,3 +1,1 @@
-﻿  Direct3d_triangle_update.cpp
-C:\Users\user\Desktop\c++포트폴리오_윈도우프로그래밍\winAPI_puzzleGame\puzzleGame\Direct3d_triangle_update.cpp(94,23): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  puzzleGame.vcxproj -> C:\Users\user\Desktop\c++포트폴리오_윈도우프로그래밍\winAPI_puzzleGame\puzzleGame\x64\Debug\puzzleGame.exe
+﻿LINK : fatal error LNK1104: 'd2d1.lib,windowscodecs.lib' 파일을 열 수 없습니다.
